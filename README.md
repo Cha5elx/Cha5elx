@@ -27,8 +27,8 @@ CS Master @ Shandong University of Science and Technology
 
 | 项目 | 说明 | 状态 |
 |------|------|------|
-| [GeoAnchor3D]() | 3D 场景理解 — MLLM 空间调控框架 | ✅ 代码整理中 |
-| [SceneGraph-Reasoner]() | 轻量级 3D 场景理解 — 2B 模型追赶 7B 性能 | 🔧 开发中 |
+| [GeoAnchor3D](https://github.com/Cha5elx/GeoAnchor3D) | 3D 场景理解 — MLLM 空间调控框架 | ✅ 代码整理中 |
+| [SceneGraph-Reasoner](https://github.com/Cha5elx/SceneGraphReasoner) | 轻量级 3D 场景理解 — 2B 模型追赶 7B 性能 | 🔧 开发中 |
 | Embodied-Nav | 具身智能语义导航 — ROS2 + 3D MLLM + 实物小车 | 📚 学习中 |
 
 ---
