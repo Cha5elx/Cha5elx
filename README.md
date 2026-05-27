@@ -46,5 +46,5 @@ CS Master @ Shandong University of Science and Technology
 ---
 
 <div align="center">
-  <sub>“莫愁前路，只管出征。” 🚀</sub>
+  <sub>“知是行之始，行是知之成。” 🚀</sub>
 </div>
